@@ -25,13 +25,15 @@ This project is a simple web app that allows users to compress images using a co
 
 ## 🚀 How to Clone and Run the Project
 
-###  Clone the repository
+ Clone the repository->
 git clone https://github.com/Jefisha/ML-UNSUPERVISED.git
+
 cd ML-UNSUPERVISED/image-compression-app
 
-### Run the app
+ Run the app->
 
 streamlit run app.py
+
 ---
 ## 🧑‍💻 Author
 Made by Jefisha.C
